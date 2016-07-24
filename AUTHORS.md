@@ -11,7 +11,8 @@ Concrete application development and web design began in June 2016.
     - all graphism, colors, drawings
 
 - Olivier Cortès
-    - idem, as assistant.
+    - overall application design / functionnal design
+    - web / mobile application design
 
 
 # Developpers
